@@ -1,0 +1,9 @@
+name = "odoo-mcp-pro"
+main = "src/worker.js"
+compatibility_date = "2026-08-12"
+workers_dev = true
+
+[vars]
+ODOO_URL = "https://thriveadvisorysolutions.odoo.com"
+ODOO_DB = "thriveadvisorysolutions"
+ODOO_USERNAME = "mcp-cloudflare@thriveadvisorysolutions.com"
